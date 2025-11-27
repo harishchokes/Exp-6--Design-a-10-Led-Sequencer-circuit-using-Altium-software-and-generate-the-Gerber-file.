@@ -1,4 +1,4 @@
-# Exp-6 Design a 10-Led Sequencer circuit using Altium software and generate the Gerber file.
+# Exp-8 Design a 10-Led Sequencer circuit using Altium software and generate the Gerber file.
 ## AIM:
 To design the schematic and PCB layout diagram of an LED Sequencer circui circuit using Altium software.
 ## EQUIPMENT REQUIRED:
